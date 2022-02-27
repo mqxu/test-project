@@ -1,0 +1,10 @@
+target/
+out/
+logs/
+.idea/
+*.class
+.DS_STORE
+
+
+
+
